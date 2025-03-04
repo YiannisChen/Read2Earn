@@ -8,7 +8,7 @@ So I've decided to systematically learn economics. Never again do I want to take
 
 ## What's Inside
 
-- [Principles of Economics](/principles-of-economics) - Fundamentals of macro and microeconomics
+- [Principles of Economics]([/principles-of-economics](https://renessans-edu.uz/files/books/2023-11-02-04-26-19_73440a247c94a07116bd881b10442047.pdf)) - Fundamentals of macro and microeconomics
 - More books coming soon!
 
 ## Why I'm Doing This
