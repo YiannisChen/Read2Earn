@@ -2,7 +2,7 @@
 
 Hey there! 👋 Welcome to my reading notes collection!
 
-As a CS student, I've realized I seriously lack knowledge about economics. Being honest, this already bit me hard — In 2024 I played with leverage in crypto and lost all 200k USD(on 4.14) from Strk airdrops that I worked hard to get... painful lesson! 🥲
+As a CS student, I've realized I seriously lack knowledge about economics. Being honest, this already bit me hard — In 2024 I played with leverage in crypto and lost all 200k USD from Strk airdrops that I worked hard to get... painful lesson! 🥲
 
 So I've decided to systematically learn economics. Never again do I want to take another lesson because I didn't understand these basic concepts.
 
