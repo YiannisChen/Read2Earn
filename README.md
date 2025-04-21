@@ -36,4 +36,4 @@ If you have book recommendations or are interested in these topics too, hit me u
 
 ---
 
-*Last updated: March 2025*
+
